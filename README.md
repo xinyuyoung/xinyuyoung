@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @xinyuyoung
+- 👋 Hi, I’m Xinyu Yang, this reporetory only for homepage.
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Network
-- 💞️ I’m looking to collaborate on ...
 - 📫 My homepage: https://xinyuyoung.github.io
 
 <!---
