@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xinyuyoung, this reporetory only for blog.
+- 👋 Hi, I’m @xinyuyoung, this reporetory only for test.
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Network
-- 📫 My homepage: https://xinyuyoung.github.io
+- 📫 My homepage: https://xinyu-yang.github.io
 
 <!---
 xinyuyoung/xinyuyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
